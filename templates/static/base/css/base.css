@@ -1,0 +1,33 @@
+body{
+
+    background-color: #C6C6C6 !important;
+
+}
+
+.bg-nav{
+    background-color: #3B0032 !important;
+    padding: 10px;
+}
+
+.bt-nav{
+    color: #f0f0f0;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+    padding-left: 35px;
+}
+
+.bt-norm{
+    color: #3B0032;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.bt:hover {
+    color: rgb(248, 94, 38);
+}
+
+.pd {
+    padding-left: 30px;
+}
